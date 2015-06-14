@@ -1,0 +1,5 @@
+[itoed-fedora]
+name=itoed - Fedora
+baseurl=http://itoed.github.io/rpms/fedora/$releasever/$basearch/
+enabled=1
+gpgcheck=0
